@@ -1,17 +1,16 @@
-## The last algorithms course you will need
-This course is the attempted equivalent of 225 hours of
-university studies in ~14 hours.
+## The last algorithms course you will WANT
+This course is the follow up to [The Last Algorithms Course You Need](https://github.com/ThePrimeagen/fem-algos)
 
 Do not be discouraged, data structures and algorithms take effort and practice!
 
 ### Website
-[The Last Algorithms Class You Will Need](https://theprimeagen.github.io/fem-algos)
+[The Last Algorithms Class You Will Want](https://theprimeagen.github.io/fem-algos-2)
 
 ### FEM Courses
-[Algorithms](https://frontendmasters.com/courses/algorithms)
+- Prereq: [First Algorithms Class](https://frontendmasters.com/courses/algorithms)
 
 ### Others
 [VIM](https://frontendmasters.com/courses/vim-fundamentals/)<br/>
 [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)<br/>
-[Learn Rust + Go](https://frontendmasters.com/courses/typescript-go-rust)<br/>
+[Rust For TypeScript Devs](https://frontendmasters.com/courses/rust-ts-devs/)<br/>
 
