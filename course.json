@@ -3,15 +3,15 @@
     "name": "ThePrimeagen",
     "company": "TheStartup, Try Harder™"
   },
-  "title": "The Last Algorithms Course You'll Need",
-  "subtitle": "Buckle up and get ready for the quicksort of a life time.",
-  "frontendMastersLink": "https://frontendmasters.com/course/algorithms",
+  "title": "The Last Algorithms Course You'll Want",
+  "subtitle": "Buckle up and get ready to sort some nodes",
+  "frontendMastersLink": "https://frontendmasters.com/course/algorithms-2",
   "social": {
     "twitter": "theprimeagen",
     "twitch": "theprimeagen",
     "youtube": "theprimeagen"
   },
-  "description": "This course is designed for those who have near zero knowledge of DSA and desire to become great.",
+  "description": "This course is designed for those have knowledge of DSA and desire to become great.",
   "keywords": ["ThePrimeagen", "Live Coding", "TypeScript", "JavaScript", "Algorithms", "DataStructures", "Data Structures", "TS"],
-  "productionBaseUrl": "/fem-algos"
+  "productionBaseUrl": "/fem-algos-2"
 }

@@ -1,5 +1,9 @@
 ## Selection
 
+### Tree Section
+* Binary Tree + AVL tree + Q&A (45 minutes)
+* Minimum Spanning Tree + Q&A (45 minutes)
+
 ### Dynamic Algorithms
 * What is dynamic programming
 * Simple example of why its great (classic fib sequence recursion vs iterative)

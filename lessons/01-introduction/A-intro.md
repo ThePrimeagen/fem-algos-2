@@ -26,13 +26,19 @@ But why a part two to the "Last Algorithms Class You Need?"
 
 ## Prereqs
 There is an expectation that you both know how to program and you know your
-basic data structures.  You know the basics of data structures such as graphs,
-trees, linked lists, knowledge of algorithms such as sorting and searching, and
-Big O basics.
+basic data structures.  You have cursory knowledge of graphs, trees, linked
+lists, knowledge of algorithms such as sorting and searching, and Big O basics.
 
 If you are unfamiliar, check out [The Last Algorithms Course You
 Need](https://frontendmasters.com/courses/algorithms) as it has everything you
-need to get up to speed
+need to get up to speed.
+
+**ITS LITERALLY FREE**
+
+<br/>
+<br/>
+
+**YOU SHOULD REALLY KNOW RECURSION**
 
 <br/>
 <br/>
@@ -77,10 +83,30 @@ need to get up to speed
 <br/>
 <br/>
 
-// TODO: Lets fill this in more
 ### What are we covering?
-* Dynamic Programming
+* Trees
 * Graphs
+* Dynamic Programming
+  - little note here
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### We will move fast
+Like.... really fast if we ever expect to get through any amount of algos
 
 <br/>
 <br/>
